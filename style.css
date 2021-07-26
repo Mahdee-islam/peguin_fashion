@@ -5,3 +5,26 @@ body {
     font-family: 'Bebas Neue', cursive;
     font-family: 'Roboto', sans-serif;
 }
+nav {
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-nav {
+    width: 414px;
+}
+li {
+    padding: 10px;
+}
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    color: #FABE4C;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+}
+.of {
+    color:#363958;
+}
+.btn {
+    font-size: 16px;
+    background-color: #a4bc46;
+}
