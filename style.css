@@ -29,6 +29,9 @@ h1 {
     font-size: 16px;
     background-color: #a4bc46;
 }
+.btn:hover {
+    background-color: #FABE4C;
+}
 .card img {
     width: 210px;
     height: 257px;
@@ -44,4 +47,8 @@ h2 {
 }
 .radious {
     border-radius: 20px;
+}
+.shop img {
+    height: 350px;
+    width: 600px;
 }
